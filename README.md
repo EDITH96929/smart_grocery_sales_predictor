@@ -692,8 +692,8 @@ If you find this project useful or interesting, consider giving the repository a
 **Sunil Kumar Swain**
 
 * GitHub: `https://github.com/EDITH96929`
-* LinkedIn: `https://www.linkedin.com/in/your-profile`
-* Email: `your-email@example.com`
+* LinkedIn: `[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/sunil-kumar-swain-584660288/)`
+* Email: `sunilk.swain2004@gmail.com`
 
 ---
 
